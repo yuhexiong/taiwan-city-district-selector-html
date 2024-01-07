@@ -12,4 +12,4 @@ Right-click on this index.html file and select "open with Live Server.
 
 ## Example Of Result
 
-![image](https://github.com/yuhexiong/taiwan-city-district-selector-html/blob/main/image/example_result.png)
+![image](https://github.com/yuhexiong/taiwan-city-district-selector-html/blob/main/images/example_result.png)
